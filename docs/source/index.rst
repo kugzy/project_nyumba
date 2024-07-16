@@ -1,6 +1,6 @@
-Welcome to project_nyumba's documentation!
-==========================================
-Hello World
+Project Nyumba
+===============
+This project documents the retrofit journey of a victorian home. I hope it inspires or helps any one out there. 
 
 .. note::
 
