@@ -3,9 +3,12 @@ The Perfect House
 
 
 In this context, the perfect house refers to a humble abode with the best energy efficiency (Looses the least amount of energy to the outside world).
-We are going to use the following three tupe of houses as a bench mark:
+We are going to use the following three types of housing standards as a bench mark:
+
 #. Passive house.
+
 #. Enerphit retofitted house.
+
 #. A new build built to modern UK housing regulations.
 
 
