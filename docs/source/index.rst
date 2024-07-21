@@ -16,3 +16,4 @@ Contents
 
 
    problem/currentstock.rst
+   problem/perfect_house.rst
